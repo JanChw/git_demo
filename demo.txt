@@ -1,0 +1,9 @@
+vi的使用
+1.插入模式
+	i a s S o O
+2.跳转
+	h j k l b w 0 $ nh nj nk nb nw n:integer
+3.替换
+	cw cnw cc cnb cb c0 c$
+4.删除
+	dw dd nd 
