@@ -9,6 +9,9 @@ git remote add origin url
 git push -u origin master
 git diff filename
 
+git reset
+git log
+
 =======
 **创建分支**
 <pre><code>
